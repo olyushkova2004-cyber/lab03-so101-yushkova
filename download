@@ -1,0 +1,4 @@
+stl/
+results.json
+.ipynb_checkpoints/
+__pycache__/
